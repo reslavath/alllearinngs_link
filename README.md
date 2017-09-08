@@ -9,3 +9,4 @@ https://www.depesz.com/2010/11/03/checkpoint_completion_target/
 
 ansible..
 https://github.com/lesovsky/ansible-postgresql-sr-on-el6
+https://www.cyberciti.biz/faq/linux-generating-rsa-keys/

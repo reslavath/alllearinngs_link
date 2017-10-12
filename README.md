@@ -16,5 +16,6 @@ backup barman
 http://tapoueh.org//images/confs/PGDAY_NYC_2016_backup.pdf
 
 security
+PostgreSQL Security for Application Developers
 https://sehrope.github.io/postgres-open-2017-application-security/#/43
 

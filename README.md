@@ -27,3 +27,9 @@ https://h50146.www5.hpe.com/products/software/oe/linux/mainstream/support/lcc/pd
 https://www.depesz.com/2017/02/06/waiting-for-postgresql-10-implement-table-partitioning/
 https://blog.dbi-services.com/postgresql-10-beta-1-native-table-partitioning/
 https://medium.com/@keithf4/postgresql-10-built-in-partitioning-fae79a7f52e2
+
+
+
+K8's PostgreSQL
+https://medium.com/kokster/postgresql-on-kubernetes-the-right-way-part-one-d174ee8a56e3
+https://medium.com/kokster/postgresql-on-kubernetes-the-right-way-part-two-1a981d5fb747

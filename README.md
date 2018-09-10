@@ -33,3 +33,8 @@ https://medium.com/@keithf4/postgresql-10-built-in-partitioning-fae79a7f52e2
 K8's PostgreSQL
 https://medium.com/kokster/postgresql-on-kubernetes-the-right-way-part-one-d174ee8a56e3
 https://medium.com/kokster/postgresql-on-kubernetes-the-right-way-part-two-1a981d5fb747
+
+
+ssl
+https://computing.ece.vt.edu/~jkh/Understanding_SSL_TLS.pdf
+

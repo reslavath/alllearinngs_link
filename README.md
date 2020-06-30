@@ -1,3 +1,5 @@
+https://skillsoft.digitalbadges.skillsoft.com/e7900c27-991c-4eaa-8c02-0c61bcc33703#gs.90vn1k
+
 # alllearinngs_link
 
 checkpoints
@@ -25,6 +27,9 @@ pg-10
 partitions
 https://h50146.www5.hpe.com/products/software/oe/linux/mainstream/support/lcc/pdf/PostgreSQL_10_New_Features_en_20170522-1.pdf
 https://www.depesz.com/2017/02/06/waiting-for-postgresql-10-implement-table-partitioning/
+
+
+
 https://blog.dbi-services.com/postgresql-10-beta-1-native-table-partitioning/
 https://medium.com/@keithf4/postgresql-10-built-in-partitioning-fae79a7f52e2
 
